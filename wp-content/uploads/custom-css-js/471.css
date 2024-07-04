@@ -1,0 +1,10 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.woocommerce-MyAccount-navigation{
+	display: none;
+}
+
+.woocommerce-account .woocommerce-MyAccount-content{
+	width: 100%; text-align: center;
+}</style>
+<!-- end Simple Custom CSS and JS -->

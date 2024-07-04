@@ -1,0 +1,23 @@
+# WordPress core
+/wp-admin/
+/wp-includes/
+/wp-content/languages/
+/wp-content/plugins/
+/wp-content/themes/twenty*/
+wp-config-sample.php
+license.txt
+readme.html
+
+# Ignore everything in the wp-content except themes and uploads
+/wp-content/*
+!/wp-content/themes/
+/wp-content/themes/twenty*/
+/wp-content/themes/twentytwenty
+!/wp-content/uploads/
+
+# Ignore any other files
+.DS_Store
+Thumbs.db
+*.log
+*.sql
+*.sqlite
