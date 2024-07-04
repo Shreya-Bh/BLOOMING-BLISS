@@ -22,10 +22,22 @@ Blooming Bliss is a fully functional flower shop website built to showcase my we
 ## Demo
 
 
+https://github.com/Shreya-Bh/BLOOMING-BLISS/assets/124278638/0979197f-9336-43a9-a46c-06eae6fa48c4
+
+
+
+https://github.com/Shreya-Bh/BLOOMING-BLISS/assets/124278638/9ede9f5d-625a-42e1-bb45-cec0da2c8cc5
+
+
+
+https://github.com/Shreya-Bh/BLOOMING-BLISS/assets/124278638/7ee9bc05-b018-4d06-8905-907ab6ad1ef7
+
+
+
 - ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 
-https://github.com/Shreya-Bh/BLOOMING-BLISS/assets/124278638/5e3ac5f4-e845-4b99-ba58-bd062628fe5c
+
 
