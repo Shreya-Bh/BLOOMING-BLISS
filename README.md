@@ -22,6 +22,18 @@ Blooming Bliss is a fully functional flower shop website built to showcase my we
 ## Demo
 
 
+https://github.com/Shreya-Bh/BLOOMING-BLISS/assets/124278638/d460cf86-bff7-4c5e-b695-c47db54e3d9b
+
+
+https://github.com/Shreya-Bh/BLOOMING-BLISS/assets/124278638/4081b97e-9e95-4f67-a98f-4b6a70690056
+
+
+https://github.com/Shreya-Bh/BLOOMING-BLISS/assets/124278638/e88ae812-99ae-428d-a341-5640d270e987
+
+
+
+
+
 https://github.com/Shreya-Bh/BLOOMING-BLISS/assets/124278638/0979197f-9336-43a9-a46c-06eae6fa48c4
 
 
